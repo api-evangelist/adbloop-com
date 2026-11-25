@@ -66,7 +66,7 @@
 
 Adbloop is a Meta Verified technology provider that enables users to bulk‑create Facebook and Instagram advertising campaigns directly from Google Sheets, a web dashboard, or AI assistants like Claude and ChatGPT. Offering over 150 campaign templates, the platform automates ad creation, dynamic creative testing, and management in under two minutes per campaign, all for a flat $19 per month. The service targets marketers and agencies seeking rapid, scalable Meta ad deployment without the complexity of traditional Ads Manager.
 
-**Areas:** Advertising · Marketing · Automation · AI · SaaS · Company
+**Areas:** Advertising · Marketing · Automation · Artificial Intelligence · Software-as-a-Service · Company
 
 ## Adbloop on APIs.io
 
@@ -80,14 +80,14 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adbloop Com Authentication](https://apis.io/security/adbloop-com/adbloop-com-authentication/)
-- [Adbloop Com Domain Security](https://apis.io/security/adbloop-com/adbloop-com-domain-security/)
+- [Adbloop Authentication](https://apis.io/security/adbloop-com/adbloop-com-authentication/)
+- [Adbloop Domain Security](https://apis.io/security/adbloop-com/adbloop-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Adbloop Com Plans Pricing](https://apis.io/plans/adbloop-com/adbloop-com-plans-pricing/)
+- [Adbloop Plans Pricing](https://apis.io/plans/adbloop-com/adbloop-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -103,18 +103,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 26.6** — thin · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 26.3** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 55.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 33.3 |
-| Access clarity | 73.2 |
+| Access clarity | 72.3 |
 
-**Agent readiness 24.7** — agent-aware
+**Agent readiness 21.4** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -129,7 +129,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | yes |
+| Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -139,8 +139,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adbloop-com/](https://apis.io/providers/adbloop-com/).
 
